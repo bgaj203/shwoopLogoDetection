@@ -60,4 +60,4 @@ buck-out/
 
 
 #local config file
-./config.json
+/config.json
